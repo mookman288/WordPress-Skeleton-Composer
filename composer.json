@@ -1,10 +1,10 @@
 {
-	"name": "pxoink/therootbeerperson",
+	"name": "pxoink/wordpress-skeleton-composer",
 	"description": "A blog running on WordPress.",
 	"authors": [
 		{
-			"name": "TRP",
-			"email": "iam@therootbeerperson.net"
+			"name": "",
+			"email": ""
 		}
 	],
 	"repositories": [
@@ -17,8 +17,6 @@
 		"php": ">=5.4", 
 		"johnpbloch/wordpress": "4.5", 
 		"composer/installers": "~1.0", 
-		"wpackagist-theme/chosen": "1.16", 
-		"wpackagist-plugin/contact-form-7": "4.4.1"
 	}, 
 	"extra": {
 		"installer-paths": {
