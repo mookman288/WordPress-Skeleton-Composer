@@ -12,10 +12,6 @@ able to leverage avenues such as wp-packagist in order grab the themes and plugi
 * `local-config-sample.php`, which can be transformed into `local-config.php` is required for operation. 
 * All symlinks have been removed. 
 
-###License
-
-As no license was assigned for Mark's work, I've gone ahead and included the MIT license, which is fair to users. 
-
 ###WordPress Packagist
 
 WordPress packagist is now the primary point of contact for grabbing plugins or themes. Plugin and theme downloads, and all 
@@ -26,7 +22,11 @@ updates should be handled through composer.
 Creating custom plugins and themes is super simple with this setup. Git deployments should not overwrite the system, and by 
 keeping everything contained, one might be able to leverage task runners, like Gulp, to do a lot of heavy lifting. 
 
-The MIT License (MIT)
+###License
+
+As no license was assigned for Mark's work, I've gone ahead and included the MIT license, which is fair to users. 
+
+####The MIT License (MIT)
 
 Software Copyright © 2016 PxO Ink. Most Rights Reserved.
 
