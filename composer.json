@@ -3,8 +3,8 @@
 	"description": "A blog running on WordPress.",
 	"authors": [
 		{
-			"name": "",
-			"email": ""
+			"name": "PxO Ink",
+			"email": "email@domain.tld"
 		}
 	],
 	"repositories": [
