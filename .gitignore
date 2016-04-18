@@ -41,8 +41,8 @@ composer.lock
 vendor/
 cache/
 public/wp/
-public/wp-content/plugins
-public/wp-content/themes
-public/wp-content/mu-themes
-public/wp-content/uploads
+public/wp-content/plugins/*
+public/wp-content/themes/*
+public/wp-content/mu-themes/*
+public/wp-content/uploads/*
 public/local-config.php
