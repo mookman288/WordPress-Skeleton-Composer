@@ -40,7 +40,9 @@ composer.lock
 .htpasswd
 vendor/
 cache/
+public/sitemap.xml*
 public/wp/
+public/wp/sitemap.xml*
 public/wp-content/plugins/*
 public/wp-content/themes/*
 public/wp-content/mu-themes/*
